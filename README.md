@@ -1,7 +1,7 @@
 
 <!-- <a href="#"><img width="100%" height="auto" src="![catto](https://user-images.githubusercontent.com/75372993/159632660-b2975a3a-3851-45d8-a081-09254af83bb7.png)" height="175px"/></a> -->
 <div align='left'>
-  <img align='right' src='/catto.png' width="50%">
+  <img align='right' src='/catto.png' width="20%">
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khadija</h1>
 <h3 align="left">I'm a passionate learner.</h3>
 
