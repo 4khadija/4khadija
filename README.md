@@ -1,6 +1,10 @@
 
 <p align="center"><b>HEY EVERYONE!</b></p>
-
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<div align='left'>
+  <img align='right' src='/img.png' width="50%">
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Palak</h1>
+<h3 align="left">I'm a passionate Web Developer from India.</h3>
 
 - 🔭 I’m currently a sophomore at Vellore Institute Of Technology.
 - 🌱 I’m currently learning Computer Science engineering.
