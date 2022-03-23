@@ -1,6 +1,5 @@
 
-<p align="center"><b>HEY EVERYONE!</b></p>
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<!-- <a href="#"><img width="100%" height="auto" src="![catto](https://user-images.githubusercontent.com/75372993/159632660-b2975a3a-3851-45d8-a081-09254af83bb7.png)" height="175px"/></a> -->
 <div align='left'>
   <img align='right' src='/img.png' width="50%">
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khadija</h1>
@@ -9,12 +8,8 @@
 - 🔭 I’m currently a sophomore at Vellore Institute Of Technology.
 - 🌱 I’m currently learning Computer Science engineering.
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: Visit my [LinkedIn](https://www.linkedin.com/in/khadija-korasawala-7b0943201/)
 - 😄 Pronouns: she/her
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=4khadija)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/4khadija)
 
 ## 🚀 Languages and Tools:
 
