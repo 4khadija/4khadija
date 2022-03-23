@@ -81,4 +81,4 @@
 <a href="https://github.com/4khadija?tab=followers"><img src="https://img.shields.io/github/followers/4khadija?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## Contribution Graph:
-![snake gif](https://github.com/4khadija/4khadija/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/4khadija/4khadija/blob/output/github-contribution-grid-snake.svg) 
