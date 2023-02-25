@@ -1,44 +1,32 @@
 
-<!-- <a href="#"><img width="100%" height="auto" src="![catto](https://user-images.githubusercontent.com/75372993/159632660-b2975a3a-3851-45d8-a081-09254af83bb7.png)" height="175px"/></a> -->
-<div align='left'>
-  <img align='right' src='/catto.png' width="20%">
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khadija</h1>
+<h2 align="left">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="28" />, I'm Khadija</h2>
 <h3 align="left">I'm a passionate learner.</h3>
 
-- I’m currently a third year student at Vellore Institute Of Technology.
-- I’m currently learning Computer Science engineering.
-- I’m looking to collaborate on open source projects.
-- Pronouns: she/her
+- Currently a third year student at Vellore Institute Of Technology, Bhopal.
+- Learning Computer Science engineering.
+- Looking to collaborate on open source projects.
+- Tech enthusiast, Front-end Web Developer, ML Researcher, Android App Fanatic, and also loves art.
 
 
 ## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  
-<!--     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> -->
-<!--     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<br>
+  <br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" width="42" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter//flutter-original.svg" height="30" width="42" alt="/flutter logo"  />
+</div>
+ </br>
+ </br>
 
 <p align="center">
     <a href="https://github.com/4khadija/github-readme-streak-stats">
@@ -49,35 +37,38 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/4khadija/github-readme-stats"><img alt="Khadija's Github Stats" src="https://github-readme-stats.vercel.app/api?username=4khadija&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" align="center"/></a>
-  <a href="https://github.com/4khadija/github-readme-stats" align="center"><img alt="Khadija's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4khadija&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true& bg_color=rgb(20, 19, 33)" align="center"/></a>
-  <br/>
-  <b>Note:</b> Top languages doesn't reflect experience or skill level , it's only a github metric of the languages I have the most code on github.
+    <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=4khadija" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=4khadija" height="150" alt="languages graph"  />
+</div>
 
 
 <br/>
 <br/>
 
-<a href="https://github.com/4khadija/github-readme-activity-graph" align="center"><img alt="Khadija's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=4khadija&bg_color=0D1117&color=5BCDEC&line=3fb950&point=FFFFFF&hide_border=true" /></a>
+[![Khadija's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=4khadija&bg_color=0d0d0d&color=ec27df&line=eef868&point=50f2ef&area=true&hide_border=true)](https://github.com/4khadija/github-readme-activity-graph)
 
 <br/>
 <br/>
 
 ## Connect with me:
-<p align="left">
+###
 
-<a href = "https://www.linkedin.com/in/khadijakorasawala/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<div align="center">
+  <a href="https://www.instagram.com/khhdiijaa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/khadijakorasawala/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<a href = "https://www.instagram.com/khdija04/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+###
 
-
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=4khadija">
 </a>
 <a href="https://github.com/4khadija?tab=followers"><img src="https://img.shields.io/github/followers/4khadija?label=Followers&style=social" alt="GitHub Badge"></a>
-
-## Contribution Graph:
-![snake gif](https://github.com/4khadija/4khadija/blob/output/github-contribution-grid-snake.svg) 
