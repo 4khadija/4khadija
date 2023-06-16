@@ -2,7 +2,7 @@
 <h2 align="left">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="28" />, I'm Khadija</h2>
 <h3 align="left">I'm a passionate learner.</h3>
 
-- Currently a third year student at Vellore Institute Of Technology, Bhopal.
+- Currently a final year student at Vellore Institute Of Technology, Bhopal.
 - Learning Computer Science engineering.
 - Looking to collaborate on open source projects.
 - Tech enthusiast, Front-end Web Developer, ML Researcher, Android App Fanatic, and also loves art.
