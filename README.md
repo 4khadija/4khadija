@@ -46,9 +46,11 @@
 <br/>
 <br/>
 
-[![Khadija's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=4khadija&bg_color=0d0d0d&color=ec27df&line=eef868&point=50f2ef&area=true&hide_border=true)](https://github.com/4khadija/github-readme-activity-graph)
-
-<br/>
+<a href="https://github.com/4khadija/github-readme-activity-graph" align="center"><img alt="Khadija's Activity Graph" src="https://activity-graph.cyclic.app/graph?username=4khadija&bg_color=0D1117&color=5BCDEC&line=3fb950&point=FFFFFF&hide_border=true" /></a>
+     
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sharma-atharva&theme=gotham&bg_color=0D1117&color=5BCDEC&line=3fb950&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/> -->
+  
 <br/>
 
 ## Connect with me:
