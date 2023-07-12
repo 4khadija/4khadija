@@ -74,3 +74,8 @@
     <img src="https://komarev.com/ghpvc/?username=4khadija">
 </a>
 <a href="https://github.com/4khadija?tab=followers"><img src="https://img.shields.io/github/followers/4khadija?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
